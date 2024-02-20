@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.64753987.css",
+    "main.js": "/profile/static/js/main.3d85eaea.js",
+    "static/js/453.acca0757.chunk.js": "/profile/static/js/453.acca0757.chunk.js",
+    "static/media/me.jpeg": "/profile/static/media/me.ea97ab014a0c1f4e4772.jpeg",
+    "static/media/profile.jpeg": "/profile/static/media/profile.b4040dd18e4aaa1538d6.jpeg",
+    "static/media/background.jpg": "/profile/static/media/background.2fca9a13c94a7bef71f2.jpg",
+    "static/media/FlightReservation.jpeg": "/profile/static/media/FlightReservation.d6c859543b8e65fa9cea.jpeg",
+    "static/media/Jobs.png": "/profile/static/media/Jobs.dff91daaafeea8f5991b.png",
+    "static/media/surveyimage.jpeg": "/profile/static/media/surveyimage.4645af53a475376c086e.jpeg",
+    "static/media/logo.jpeg": "/profile/static/media/logo.35fbc0f137313722082a.jpeg",
+    "static/media/game.jpeg": "/profile/static/media/game.7199a24951efb97fc353.jpeg",
+    "index.html": "/profile/index.html",
+    "main.64753987.css.map": "/profile/static/css/main.64753987.css.map",
+    "main.3d85eaea.js.map": "/profile/static/js/main.3d85eaea.js.map",
+    "453.acca0757.chunk.js.map": "/profile/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64753987.css",
+    "static/js/main.3d85eaea.js"
+  ]
+}
