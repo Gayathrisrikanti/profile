@@ -1,0 +1,35 @@
+
+
+.home-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../assets/images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .profile-container {
+    text-align: center;
+    margin-bottom: 20%;
+  }
+  
+  .profile-text {
+    color: #ff0808;
+    font-size: 25px;
+    margin-left: 50px;
+  }
+  
+  .profile-image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 20px;
+  }
+  
+  .waving-hand {
+    width: 50px;
+  }
+  

@@ -1,0 +1,79 @@
+.project-background{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('../assets/projects/background.jpg');
+    background-size: cover ;
+    background-repeat:no-repeat;
+    min-height: 100vh;
+    height: auto;
+}
+.title{
+    color: beige;
+    font-size: 200%; 
+    font-weight: bold;
+    font-family: 'Montserrat',cursive;
+    text-align: center;
+}
+.title img{
+    width:5%;
+    height:auto;
+}
+.content{
+    display: flex;
+    width: 80%;
+    color: beige;
+}
+.project-list{
+    flex: 1;
+}
+.project-preview{
+    flex: 1;
+    max-width: 600px;
+}
+.project-preview img {
+    max-width: 100%; 
+    height: auto;
+}
+.accordion li{
+    list-style: none;
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+.accordion li label{
+    padding: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 25px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.accordion li label img{
+    height: 26px;
+    margin-left: 10px;
+
+}
+.accordion label + input[type="radio"]{
+    display: none;
+}
+.accordion .content{
+    padding: 0 10px;
+    line-height: 26px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s;
+}
+.accordion label + input[type="radio"]:checked + .content{
+    max-height: 1000px;
+}
+.feature {
+    padding: 0;
+}
+
+.feature li {
+    list-style-type:circle;
+    margin-bottom: 1px;
+}
